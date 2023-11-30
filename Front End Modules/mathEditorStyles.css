@@ -1,0 +1,22 @@
+/* Styles specific to the math editor */
+
+.math-editor {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.math-input {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.math-button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Add more styles for the math editor components */
