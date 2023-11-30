@@ -27,4 +27,30 @@
 9. **Learning Experience:**
    - "Math Scribble" provided a rich learning experience, offering insights into the complexities of developing accessible and accurate systems. The project highlighted the importance of balancing technical aspects with user-centric design principles. Learning to navigate the challenges of real-time processing, model optimization, and accessibility has broadened my skill set. This project has not only deepened my understanding of deep learning and web development but has also enhanced my ability to create solutions that align with both functional and user experience requirements.
 
-Feel free to use and modify these paragraphs as needed for your GitHub repository!
+
+---
+
+**Disclaimer: Proprietary Technology Notice**
+
+The code, software, and modules in this repository represent proprietary technology developed by the creator, and as such, are protected by intellectual property laws. Unauthorized reproduction, distribution, or disclosure of any part of this technology is strictly prohibited.
+
+**Ownership:**
+The creator retains full ownership and rights to the codebase, software, and modules presented here. This includes, but is not limited to, algorithms, models, and any innovative techniques implemented in the project.
+
+**Restrictions:**
+No part of the codebase or related materials may be shared, copied, or distributed without explicit written consent from the creator. Any attempt to reverse engineer, modify, or exploit this technology for personal or commercial use without authorization is a violation of applicable laws.
+
+**Limited Sharing:**
+While some portions of the code, software, and modules are shared in this repository for educational and demonstration purposes, the full source code is not publicly available. For access to the complete set of source code and proprietary elements, please contact the creator at [gokulraja840@gmail.com](mailto:gokulraja840@gmail.com).
+
+**Collaboration and Inquiries:**
+Collaboration inquiries, questions, or requests for additional information can be directed to [gokulraja840@gmail.com](mailto:gokulraja840@gmail.com). The creator welcomes genuine interest, collaboration proposals, and discussions related to the technology presented in this repository.
+
+**Legal Action:**
+Unauthorized use, reproduction, or distribution of the proprietary technology presented here may result in legal action to protect the intellectual property rights of the creator.
+
+By accessing and using any part of this repository, you agree to abide by these terms and conditions. Thank you for respecting the intellectual property and innovation embedded in this project.
+
+--- 
+
+Feel free to adjust the wording as per your preferences and legal requirements.
