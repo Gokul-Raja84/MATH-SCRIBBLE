@@ -1,0 +1,10 @@
+{
+  "model": "bttr",
+  "batch_size": 64,
+  "learning_rate": 0.0001,
+  "epochs": 15,
+  "optimizer": "adam",
+  "loss_function": "mse_loss",
+  "bidirectional": true,
+  "model_save_path": "models/bttr_model.pth"
+}

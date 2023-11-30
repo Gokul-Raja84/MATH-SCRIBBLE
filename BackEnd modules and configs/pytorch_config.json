@@ -1,0 +1,20 @@
+{
+  "pytorch_config": {
+    "device": "cuda", // Use CUDA for GPU acceleration
+    "device_id": 0, // GPU device ID, change based on your system configuration
+
+    "gradient_clipping": {
+      "enabled": true,
+      "value": 0.5 // Set the gradient clipping threshold for stability during training
+    },
+
+    "custom_configurations": {
+      "batch_size": 64,
+      "learning_rate": 0.001,
+      "num_epochs": 10,
+      "model_architecture": "resnet18",
+      "augmentation": true
+      // Add any other custom configurations specific to your PyTorch models
+    }
+  }
+}
