@@ -1,0 +1,38 @@
+// Main SCSS Styles for MathScribble
+
+// Import variables
+@import "variables_mathscribble";
+
+// Reset and normalize styles
+@import "reset";
+@import "normalize";
+
+// Global styles
+body {
+  font-family: "Arial", sans-serif;
+  background-color: $background-color;
+  color: $text-color;
+}
+
+header {
+  background-color: $primary-color;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+footer {
+  background-color: $primary-color;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
