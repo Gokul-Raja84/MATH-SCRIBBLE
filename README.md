@@ -1,5 +1,7 @@
 # Math Scribble
 
+![Math Scribble UI](https://github.com/Gokul-Raja84/MATH-SCRIBBLE/assets/106546785/70f85540-591f-4fdc-a4f4-eea78812a444)
+
 1. **Project Title:**
    - The "Handwritten Mathematical Expression Recognition & Calculation System App Using Deep Learning" project is an innovative venture designed to revolutionize our interaction with mathematical equations. At its core, this system seamlessly merges user-friendly design with the power of modern deep learning techniques, creating a bridge between traditional handwriting and contemporary digital computation. In an era where handwritten mathematical expressions continue to play a crucial role in education, research, and problem-solving, this system marks a significant advancement. It challenges traditional methods, unlocking new avenues for problem-solving and reshaping the way we engage with mathematical concepts.
 
