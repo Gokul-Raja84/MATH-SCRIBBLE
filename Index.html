@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="Style.css" />
+  </head>
+  <body>
+    <header>
+      <title>Math Scribble</title>
+      <nav>
+        <ul>
+          <li>Home</li>
+          <li>Features</li>
+          <li>Accessibility</li>
+          <li>Export</li>
+          <li>Customization</li>
+          <li>Profile</li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section class="calculation-section">
+        <div class="card card-1">
+          <div class="input-output">
+            <div class="input">
+              <textarea
+                class="big-one"
+                placeholder="Handwritten Input"
+              ></textarea>
+            </div>
+            <div class="output">
+              <textarea
+                class="big-one"
+                placeholder="Computed Output"
+              ></textarea>
+            </div>
+          </div>
+          <div class="actions">
+            <button class="edit-refine">Calculate</button>
+            <button class="edit-refine">Edit/Refine</button>
+            <button class="audio-output">Audio Output</button>
+            <button class="export">Export</button>
+            <button class="customization-settings">Import</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="speech-playback">
+        <div class="card">
+          <div class="playback-area">
+            <textarea placeholder="Speech Playback Area"></textarea>
+          </div>
+          <div class="playback-controls">
+            <button>Play</button>
+            <button>Pause</button>
+            <button>Stop</button>
+            <input
+              type="range"
+              min="0"
+              max="100"
+              value="50"
+              class="volume-control"
+            />
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <ul class="footer-list">
+        <li>Contact Information</li>
+        <li>About MathScribe</li>
+        <li>Privacy Policy</li>
+        <li>Terms and Conditions</li>
+        <li>Feedback and Support</li>
+        <li>Accessibility Statement</li>
+      </ul>
+    </footer>
+  </body>
+</html>
