@@ -1,5 +1,7 @@
 # Math Scribble
 
+Tech Website of this Project - https://math-scribble.netlify.app/
+
 ![Math Scribble UI](https://github.com/Gokul-Raja84/MATH-SCRIBBLE/assets/106546785/70f85540-591f-4fdc-a4f4-eea78812a444)
 
 "The GitHub Pages hosting for Math Scribble's showcase is available at [MATH-SCRIBBLE](https://gokul-raja84.github.io/MATH-SCRIBBLE). This platform offers a glimpse into the Math Scribble user interface and its accessibility features. Please note that this is a frontend-only representation, and no backend functionalities or server connections are implemented. The purpose is solely to convey the essence and idea behind the Math Scribble project."
